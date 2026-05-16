@@ -60,7 +60,7 @@ A two-deck DJ application built in **C++ with JUCE**, featuring dual audio playe
 
 ## Setup
 
-**Requirements:** JUCE 7+, C++17, CMake or Projucer
+**Requirements:** [JUCE 7+](https://juce.com/), C++17, CMake or Projucer
 
 ```bash
 git clone <https://github.com/abidazainab/UoL_OOP_2005_OtoDeck>
