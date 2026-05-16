@@ -2,7 +2,7 @@
 
 A two-deck DJ application built in **C++ with JUCE**, featuring dual audio players, a crossfader, EQ processing, a searchable playlist with CSV persistence, waveform displays, and custom visual components.
 
-![Project Preview](homepage.jpg)
+![Project Preview](homepage.JPG)
 ---
 
 ## Features
